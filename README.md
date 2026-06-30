@@ -1,3 +1,4 @@
+<img width="1370" height="660" alt="Screenshot 2026-06-30 at 6 10 13 PM" src="https://github.com/user-attachments/assets/47054025-dcd5-41cd-a2bf-6059d903a311" />
 # Fintech Sentiment Engine
 
 Pulls Google Play reviews for BNPL and neobank apps, clusters them into semantic topics with BERTopic, and generates a PM-ready strategic brief via Claude — all surfaced in a Streamlit UI.
